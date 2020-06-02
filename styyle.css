@@ -1,0 +1,26 @@
+.navbar {
+    background-color: rebeccapurple !important;
+}
+.nav-link:hover {
+    color: palevioletred !important;
+}
+.nav-link {
+    color: white !important;
+}
+#button {
+    display: flex;
+    background-color: rgb(204, 0, 0) !important;
+    color: white !important;
+}
+.marq {
+    background-color: grey solid !important;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
